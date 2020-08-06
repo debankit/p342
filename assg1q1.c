@@ -1,3 +1,4 @@
+/* Program to sum over 1 to 100 */
 #include <stdio.h>
 int main() {
     int s =0, i;
