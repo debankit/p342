@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
-    int n, i, s=1;
+    int n, i;
+    unsigned long long s=1;
     printf("Enter a positive integer: ");
     scanf("%d", &n);
 
@@ -14,7 +15,7 @@ int main() {
         for (i = 1; i <= n; ++i) {
                 s=s*i;
             }
-        printf("The factorial of %d = %d" , n , s);
+        printf("The factorial of %d = %llu" , n , s);
         }
          return 0;
 }
