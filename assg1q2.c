@@ -1,3 +1,4 @@
+/*Program to find the factorial of a number provided by the user. */
 #include <stdio.h>
 int main() {
     int n, i;
