@@ -6,3 +6,4 @@ for x in range(n):
     for y in range(n):
         sum= sum + abs(x-y)
 print("Average distance between two points = ", sum/total)
+#Average distance between two points =  1.9444444444444444
