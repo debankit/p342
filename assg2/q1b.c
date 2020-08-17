@@ -15,3 +15,6 @@ int main(){
     }
     printf("Average distance between two points = %f", sum/total);
 }
+
+/* Output
+Average distance between two points = 3.888889  */
