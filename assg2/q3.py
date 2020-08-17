@@ -2,8 +2,8 @@
 with open('m.txt', 'r') as f:
     m = [[int(num) for num in line.split()] for line in f]
 
-with open('n.txt', 'r') as f:
-    n = [[int(num) for num in line.split()] for line in f]
+with open('n.txt', 'r') as j:
+    n = [[int(num) for num in line.split()] for line in j]
 
 a= [1, 2, 3]
 p1=[0, 0, 0]
