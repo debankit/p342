@@ -18,5 +18,9 @@ for x in range(3):
         for y in range(3):
             p2[x][i] = p1[x][i] + (m[x][y] * n[y][i]) 
 print("Product of M*N: ", p2)
+
+
+
+#Output
 #Product of M*A:  [[26, 26, 31], [15, 15, 31], [15, 15, 32]]
 #Product of M*N:  [[37, 28, 39], [81, 27, 79], [48, 21, 56]]
