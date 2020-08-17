@@ -14,3 +14,11 @@ void main(){
     }
     printf("Dot product of Matrices = %d", dot);
 }
+
+/*Output
+ 
+Sum of the Matrices:                                                                                                                          
+10                                                                                                                                            
+25                                                                                                                                            
+13                                                                                                                                            
+Dot product of Matrices = 201 */
