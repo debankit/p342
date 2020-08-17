@@ -8,3 +8,8 @@ for xi in range(6):
             for yf in range(6):
                         sum= sum + abs(xi-xf) + abs(yi-yf)
 print("Average distance between two points = ", sum/total)
+
+
+
+
+#Average distance between two points =  3.888888888888889
