@@ -12,3 +12,12 @@ for x in sum:
     print(x)
 print("Dot prodduct of the Matrices")
 print(dot)
+
+
+#Output
+#Sum of the matrices
+#8
+#11
+#15
+#Dot prodduct of the Matrices
+#98
