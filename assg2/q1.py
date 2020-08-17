@@ -1,4 +1,4 @@
-#to find the average distance between 6 points in a straight line
+#to find the average distance between points in a straight line containing 6 points
 sum=0
 n=6
 total= n*n
